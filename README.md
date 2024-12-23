@@ -1,6 +1,4 @@
 
-<h1 align="center">Salve!</h1>
-
 ## About Me:
 
 -  I study Software Engineering
