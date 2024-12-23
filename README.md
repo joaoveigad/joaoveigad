@@ -1,31 +1,32 @@
 
 <h1 align="center">Salve!</h1>
 
-## About Me :
+## About Me:
 
--  Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
--  Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 'Lives in **Dalugama Sri Lanka**
--  **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
-
-<br>
-
-
-## What I am Good at 🧑‍💻 :
+-  I study Software Engineering
+-  I live in **Belo Horizonte - Minas Gerais, Brazil**
+-  **Fun Facts** : The cat is most likely my spirit animal.
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="[https://img.icons8.com/color/48/000000/html-5--v1.png](https://icon.icepanel.io/Technology/svg/TypeScript.svg)"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+
+## Current skills:
 
 
 <br>
 
-## Connect with me ☕ :
+<img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" style="width: 8%"/><img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" style="width: 8%;" /><img src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" style="width: 8%"/><img src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" style="width: 8%"/>
+ <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" style="width: 8%"/> <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" style="width: 8%"/><img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" style="width: 8%"/><img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" style="width: 8%"/><img src="https://icon.icepanel.io/Technology/svg/Sass.svg" style="width: 8%"/>
 
 <br>
 
-[![](https://img.icons8.com/fluency/48/000000/linkedin.png "João Victor Duarte da Veiga Andrade")](https://www.linkedin.com/in/joão-víctor-duarte-da-veiga-andrade-230942242/)
+## Connect with me:
+
+<br>
+
+<a href="https://www.linkedin.com/in/joão-víctor-duarte-da-veiga-andrade-230942242/" title="João Victor Duarte da Veiga Andrade">
+  <img src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" alt="João Victor Duarte da Veiga Andrade" style="width: 8%;" />
+</a>
 
 <br>
 
