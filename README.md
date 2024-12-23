@@ -1,5 +1,8 @@
 
 ## About Me:
+![Static Badge](https://img.shields.io/badge/jvdvandrade1996%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white&link=mailto%3Ajvdvandrade1996%40gmail.com)
+
+
 
 -  I study Software Engineering
 -  I live in **Belo Horizonte - Minas Gerais, Brazil**
@@ -30,9 +33,16 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/joão-víctor-duarte-da-veiga-andrade-230942242/" title="João Victor Duarte da Veiga Andrade">
+<a href="https://www.linkedin.com/in/veigajoao/" title="João Victor Duarte da Veiga Andrade">
   <img src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" alt="João Victor Duarte da Veiga Andrade" style="width: 8%;" />
 </a>
+<a href="mailto:jvdvandrade1996@gmail.com" title="Send me an email">
+  <img src="![Static Badge](https://img.shields.io/badge/jvdvandrade1996%40gmail.com-red?logo=gmail&logoColor=white)
+" alt="Email Icon" style="width: 8%;" />
+</a>
+
+
+
 
 <br>
 
