@@ -1,20 +1,21 @@
+## Hey! Get to know me! :v:
+
+<p style="display: flex; align-items: center; gap: 10px; margin: 0;">
+  <a href="https://www.linkedin.com/in/veigajoao/">
+    <img src="https://img.shields.io/badge/veigajoao-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:jvdvandrade1996@gmail.com">
+    <img src="https://img.shields.io/badge/jvdvandrade1996%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ## About Me:
-![Static Badge](https://img.shields.io/badge/jvdvandrade1996%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white&link=mailto%3Ajvdvandrade1996%40gmail.com)
-
-
 
 -  I study Software Engineering
 -  I live in **Belo Horizonte - Minas Gerais, Brazil**
 -  **Fun Facts** : The cat is most likely my spirit animal.
 
-<br>
-
-
-## Current skills:
-
-
-<br>
+## My technologies:
 
 <a href="#"><img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" style="width: 8%;" /></a>
 <a href="#"><img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" style="width: 8%;" /></a>
@@ -29,22 +30,7 @@
 
 <br>
 
-## Connect with me:
 
-<br>
-
-<a href="https://www.linkedin.com/in/veigajoao/" title="João Victor Duarte da Veiga Andrade">
-  <img src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" alt="João Victor Duarte da Veiga Andrade" style="width: 8%;" />
-</a>
-<a href="mailto:jvdvandrade1996@gmail.com" title="Send me an email">
-  <img src="![Static Badge](https://img.shields.io/badge/jvdvandrade1996%40gmail.com-red?logo=gmail&logoColor=white)
-" alt="Email Icon" style="width: 8%;" />
-</a>
-
-
-
-
-<br>
 
 
 
