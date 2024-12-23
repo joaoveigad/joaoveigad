@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**joaoveigad/joaoveigad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Salve!</h1>
 
-Here are some ideas to get you started:
+## About Me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
+-  Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
+- 'Lives in **Dalugama Sri Lanka**
+-  **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+
+<br>
+
+
+## What I am Good at 🧑‍💻 :
+
+<br>
+
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+
+<br>
+
+
+## Connect with me ☕ :
+
+<br>
+
+## Connect with me ☕ :
+
+<br>
+
+[![](https://img.icons8.com/fluency/48/000000/linkedin.png "João Victor Duarte da Veiga Andrade")](https://www.linkedin.com/in/joão-víctor-duarte-da-veiga-andrade-230942242/)
+
+<br>
+
+
+<br>
+
+
+
+---
+
+Credit: [AnushkaWijegoonawardana97](https://github.com/AnushkaWijegoonawardana97)
+
+Last edited on: 30/06/2022
