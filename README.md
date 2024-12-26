@@ -13,7 +13,7 @@
 
 -  I study Software Engineering
 -  I live in **Belo Horizonte - Minas Gerais, Brazil**
--  **Fun Facts** : The cat is most likely my spirit animal.
+-  **Fun Fact** : The cat is most likely my spirit animal.
 
 ## My technologies:
 
