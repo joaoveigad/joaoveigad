@@ -27,6 +27,13 @@
 <a href="#"><img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" style="width: 8%;" /></a>
 <a href="#"><img src="https://icon.icepanel.io/Technology/svg/Sass.svg" style="width: 8%;" /></a>
 
+## Currently learning: 
+
+<a href="#"><img src="https://icon.icepanel.io/Technology/svg/Python.svg" style="width: 8%;" /></a>
+<a href="#"><img src="https://icon.icepanel.io/Technology/svg/Java.svg" style="width: 8%;" /></a>
+<a href="#"><img src="https://icon.icepanel.io/Technology/svg/React.svg" style="width: 8%;" /></a>
+
+
 
 <br>
 
