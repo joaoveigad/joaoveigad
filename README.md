@@ -7,7 +7,6 @@
   </a>
 </p>
 
-## About Me:
 
 <!-- 
 - I study Software Engineering
